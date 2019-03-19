@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1662e6c1878db3f41823889d00bcc60b, type: 3}
+  m_Name: Undead
+  m_EditorClassIdentifier: 
+  Sprites:
+  - {fileID: 21300072, guid: 41fa0afb01e6102458a7c8c9d0957b3e, type: 3}
+  - {fileID: 21300072, guid: f9585357eb218e84ca1228d9c8e8f518, type: 3}
+  Level: 3

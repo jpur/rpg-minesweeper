@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1662e6c1878db3f41823889d00bcc60b, type: 3}
+  m_Name: Demon
+  m_EditorClassIdentifier: 
+  Sprites:
+  - {fileID: 21300044, guid: fda4e9b5fe9961148bca8aa0b08f9f45, type: 3}
+  - {fileID: 21300044, guid: cf3fbc16a1c99a7419c901ab096edfbe, type: 3}
+  Level: 5
